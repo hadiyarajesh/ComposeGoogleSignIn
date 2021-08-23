@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComposeGoogleSignIn</string>
+    <string name="backend_client_id">CLIENT_ID_FOR_YOUR_BACKEND_GENERATED_BY_GOOGLE_CONSOLE</string>
+</resources>
