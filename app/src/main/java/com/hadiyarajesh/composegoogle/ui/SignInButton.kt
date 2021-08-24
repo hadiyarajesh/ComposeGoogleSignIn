@@ -86,7 +86,7 @@ fun SignInButton(
 @Preview
 fun SignInButtonPreview() {
     SignInButton(
-        text = "Sign up with Google",
+        text = "Sign in with Google",
         loadingText = "Signing in...",
         isLoading = false,
         icon = painterResource(id = R.drawable.ic_google_logo),
